@@ -10,6 +10,6 @@
 
 > Building Page
 
-![Export and Download](https://github.com/juliajohnson18/Interactive-Site-Builder/blob/manage/readme/readme-images/readme-example-download.png?raw=true)
+![Export and Download](https://github.com/naaficodes/Decore/blob/Naafi/readme-images/readme-example-download.png?raw=true)
 
 > Export and Download
